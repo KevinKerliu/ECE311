@@ -1,4 +1,4 @@
 # ECE311
 Hardware Design
 
-Verilog code for assignments from ECE311.
+Verilog/VHDL code for assignments from ECE311.
